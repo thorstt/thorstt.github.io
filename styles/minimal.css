@@ -208,6 +208,17 @@ hr {
   margin:0 0 20px;
 }
 
+.wrapper #resume h1, h2, h3, h4, h5 {
+    border: 1px solid #def;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.wrapper #resume p {
+    color: #111;
+    padding: 10px;
+}
+
 footer {
   width:270px;
   float:left;
